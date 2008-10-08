@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=aphex
 Tags: sidebar, plugin, statistics, stats, games, fun
 Requires at least: 2.0
 Tested up to: 2.6.2
-Stable tag: 4.3
+Stable tag: 0.1
 
 This plugin displays a Guitar Hero statistic in your wordpress sidebar. It brings an own configuration page. Let's Rock'n'Roll! 
 
