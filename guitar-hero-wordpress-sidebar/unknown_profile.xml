@@ -1,0 +1,393 @@
+<account> 
+  <last_login_at type="datetime">2008-09-23T07:39:23Z</last_login_at> 
+  <unread_message_count type="integer">0</unread_message_count> 
+  <last_blog_post_at nil="true"></last_blog_post_at> 
+  <last_linked_slot_at type="datetime">2008-09-22T16:14:20Z</last_linked_slot_at> 
+  <updated_at type="datetime">2008-09-23T07:44:03Z</updated_at> 
+  <groupies type="integer">183</groupies> 
+  <rocker_status>Punk</rocker_status> 
+  <tournament_wins type="integer">0</tournament_wins> 
+  <last_joined_clan_at nil="true"></last_joined_clan_at> 
+  <username>unknown</username> 
+  <last_comment_on_blog_post_at nil="true"></last_comment_on_blog_post_at> 
+  <slots_count type="integer">1</slots_count> 
+  <description></description> 
+  <last_created_clan_at nil="true"></last_created_clan_at> 
+  <skin>metal</skin> 
+  <primary_slot> 
+    <coop_percent_expert type="integer">0</coop_percent_expert> 
+    <battle_medium nil="true"></battle_medium> 
+    <pro_face_off_medium nil="true"></pro_face_off_medium> 
+    <battle_win_streak type="integer">0</battle_win_streak> 
+    <campaign_expert type="integer">0</campaign_expert> 
+    <pro_face_off_easy nil="true"></pro_face_off_easy> 
+    <face_off_wins nil="true"></face_off_wins> 
+    <battle_wins nil="true"></battle_wins> 
+    <highscores> 
+      <coop> 
+        <medium> 
+          <welcome_to_the_jungle> 
+            <score type="integer">94427</score> 
+            <updated_at type="datetime">2008-09-22T19:54:25Z</updated_at> 
+            <best_streak type="integer">45</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">88</hit_percentage> 
+          </welcome_to_the_jungle> 
+          <same_old_song_and_dance> 
+            <score type="integer">61109</score> 
+            <updated_at type="datetime">2008-09-22T20:13:36Z</updated_at> 
+            <best_streak type="integer">75</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">91</hit_percentage> 
+          </same_old_song_and_dance> 
+          <reptilia> 
+            <score type="integer">50498</score> 
+            <updated_at type="datetime">2008-09-22T19:44:29Z</updated_at> 
+            <best_streak type="integer">33</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">80</hit_percentage> 
+          </reptilia> 
+          <my_name_is_jonas> 
+            <score type="integer">128549</score> 
+            <updated_at type="datetime">2008-09-22T20:29:49Z</updated_at> 
+            <best_streak type="integer">106</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">5</stars> 
+            <hit_percentage type="integer">95</hit_percentage> 
+          </my_name_is_jonas> 
+          <cities_on_flame> 
+            <score type="integer">120501</score> 
+            <updated_at type="datetime">2008-09-22T20:24:50Z</updated_at> 
+            <best_streak type="integer">101</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">4</stars> 
+            <hit_percentage type="integer">93</hit_percentage> 
+          </cities_on_flame> 
+          <the_metal> 
+            <score type="integer">44483</score> 
+            <updated_at type="datetime">2008-09-22T20:33:19Z</updated_at> 
+            <best_streak type="integer">34</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">86</hit_percentage> 
+          </the_metal> 
+          <schools_out> 
+            <score type="integer">85776</score> 
+            <updated_at type="datetime">2008-09-22T19:31:44Z</updated_at> 
+            <best_streak type="integer">89</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">4</stars> 
+            <hit_percentage type="integer">93</hit_percentage> 
+          </schools_out> 
+          <slow_ride> 
+            <score type="integer">66809</score> 
+            <updated_at type="datetime">2008-09-22T19:18:33Z</updated_at> 
+            <best_streak type="integer">67</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">82</hit_percentage> 
+          </slow_ride> 
+          <helicopter> 
+            <score type="integer">71298</score> 
+            <updated_at type="datetime">2008-09-22T20:42:31Z</updated_at> 
+            <best_streak type="integer">25</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">74</hit_percentage> 
+          </helicopter> 
+          <black_magic_woman> 
+            <score type="integer">81128</score> 
+            <updated_at type="datetime">2008-09-22T20:09:24Z</updated_at> 
+            <best_streak type="integer">35</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">81</hit_percentage> 
+          </black_magic_woman> 
+          <threes_and_sevens> 
+            <score type="integer">67815</score> 
+            <updated_at type="datetime">2008-09-22T20:38:16Z</updated_at> 
+            <best_streak type="integer">39</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">85</hit_percentage> 
+          </threes_and_sevens> 
+          <paranoid> 
+            <score type="integer">73148</score> 
+            <updated_at type="datetime">2008-09-22T19:48:57Z</updated_at> 
+            <best_streak type="integer">62</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">91</hit_percentage> 
+          </paranoid> 
+          <lay_down> 
+            <score type="integer">66312</score> 
+            <updated_at type="datetime">2008-09-22T19:58:27Z</updated_at> 
+            <best_streak type="integer">35</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">79</hit_percentage> 
+          </lay_down> 
+          <the_seeker> 
+            <score type="integer">46368</score> 
+            <updated_at type="datetime">2008-09-22T19:36:01Z</updated_at> 
+            <best_streak type="integer">20</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">83</hit_percentage> 
+          </the_seeker> 
+          <holiday_in_cambodia> 
+            <score type="integer">158708</score> 
+            <updated_at type="datetime">2008-09-22T20:20:00Z</updated_at> 
+            <best_streak type="integer">97</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">4</stars> 
+            <hit_percentage type="integer">95</hit_percentage> 
+          </holiday_in_cambodia> 
+          <when_you_were_young> 
+            <score type="integer">75081</score> 
+            <updated_at type="datetime">2008-09-22T19:13:24Z</updated_at> 
+            <best_streak type="integer">46</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">91</hit_percentage> 
+          </when_you_were_young> 
+          <number_of_the_beast> 
+            <score type="integer">72058</score> 
+            <updated_at type="datetime">2008-09-22T21:03:25Z</updated_at> 
+            <best_streak type="integer">36</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">74</hit_percentage> 
+          </number_of_the_beast> 
+          <suck_my_kiss> 
+            <score type="integer">59327</score> 
+            <updated_at type="datetime">2008-09-22T20:02:41Z</updated_at> 
+            <best_streak type="integer">58</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">85</hit_percentage> 
+          </suck_my_kiss> 
+          <sabotage> 
+            <score type="integer">66900</score> 
+            <updated_at type="datetime">2008-09-22T19:27:11Z</updated_at> 
+            <best_streak type="integer">53</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">89</hit_percentage> 
+          </sabotage> 
+          <miss_murder> 
+            <score type="integer">102904</score> 
+            <updated_at type="datetime">2008-09-22T19:40:25Z</updated_at> 
+            <best_streak type="integer">119</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">4</stars> 
+            <hit_percentage type="integer">94</hit_percentage> 
+          </miss_murder> 
+          <barracuda> 
+            <score type="integer">90746</score> 
+            <updated_at type="datetime">2008-09-22T19:23:40Z</updated_at> 
+            <best_streak type="integer">72</best_streak> 
+            <rank nil="true"></rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">86</hit_percentage> 
+          </barracuda> 
+        </medium> 
+      </coop> 
+      <regular> 
+        <medium> 
+          <welcome_to_the_jungle> 
+            <score type="integer">37647</score> 
+            <updated_at type="datetime">2008-09-22T18:14:28Z</updated_at> 
+            <best_streak type="integer">35</best_streak> 
+            <rank type="integer">782213</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">75</hit_percentage> 
+          </welcome_to_the_jungle> 
+          <same_old_song_and_dance> 
+            <score type="integer">19918</score> 
+            <updated_at type="datetime">2008-09-22T17:29:04Z</updated_at> 
+            <best_streak type="integer">21</best_streak> 
+            <rank type="integer">680086</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">71</hit_percentage> 
+          </same_old_song_and_dance> 
+          <la_grange> 
+            <score type="integer">30843</score> 
+            <updated_at type="datetime">2008-09-22T17:23:17Z</updated_at> 
+            <best_streak type="integer">25</best_streak> 
+            <rank type="integer">720233</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">76</hit_percentage> 
+          </la_grange> 
+          <the_metal> 
+            <score type="integer">30823</score> 
+            <updated_at type="datetime">2008-09-22T18:24:05Z</updated_at> 
+            <best_streak type="integer">49</best_streak> 
+            <rank type="integer">657084</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">77</hit_percentage> 
+          </the_metal> 
+          <cherub_rock> 
+            <score type="integer">55515</score> 
+            <updated_at type="datetime">2008-09-22T18:29:54Z</updated_at> 
+            <best_streak type="integer">63</best_streak> 
+            <rank type="integer">602303</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">78</hit_percentage> 
+          </cherub_rock> 
+          <black_magic_woman> 
+            <score type="integer">53230</score> 
+            <updated_at type="datetime">2008-09-22T18:20:48Z</updated_at> 
+            <best_streak type="integer">62</best_streak> 
+            <rank type="integer">686006</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">76</hit_percentage> 
+          </black_magic_woman> 
+          <before_i_forget> 
+            <score type="integer">50722</score> 
+            <updated_at type="datetime">2008-09-22T18:39:36Z</updated_at> 
+            <best_streak type="integer">59</best_streak> 
+            <rank type="integer">536130</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">79</hit_percentage> 
+          </before_i_forget> 
+          <pride_and_joy> 
+            <score type="integer">40425</score> 
+            <updated_at type="datetime">2008-09-22T18:34:20Z</updated_at> 
+            <best_streak type="integer">27</best_streak> 
+            <rank type="integer">608696</rank> 
+            <stars type="integer">3</stars> 
+            <hit_percentage type="integer">81</hit_percentage> 
+          </pride_and_joy> 
+        </medium> 
+      </regular> 
+    </highscores> 
+    <campaign_easy type="integer">1806355</campaign_easy> 
+    <battle_expert nil="true"></battle_expert> 
+    <campaign_hard type="integer">0</campaign_hard> 
+    <pro_face_off_win_ratio type="integer">0</pro_face_off_win_ratio> 
+    <campaign_overall_rank type="integer">845690</campaign_overall_rank> 
+    <career_hard type="integer">0</career_hard> 
+    <account_assigned_at type="datetime">2008-09-22T16:14:20Z</account_assigned_at> 
+    <current_pro_face_off_win_streak type="integer">0</current_pro_face_off_win_streak> 
+    <battle_win_ratio type="integer">0</battle_win_ratio> 
+    <clan_id nil="true"></clan_id> 
+    <face_off_losses type="integer">0</face_off_losses> 
+    <face_off_win_streak type="integer">0</face_off_win_streak> 
+    <career_percent_medium type="integer">64</career_percent_medium> 
+    <campaign_overall type="integer">2952335</campaign_overall> 
+    <pro_face_off_hard nil="true"></pro_face_off_hard> 
+    <coop_percent_easy type="integer">47</coop_percent_easy> 
+    <matches_count type="integer">21</matches_count> 
+    <losses nil="true"></losses> 
+    <face_off_easy nil="true"></face_off_easy> 
+    <head_to_head_games_count type="integer">0</head_to_head_games_count> 
+    <name>UNKNOWN</name> 
+    <coop_medium type="integer">0</coop_medium> 
+    <cash type="integer">12445</cash> 
+    <coop_expert type="integer">0</coop_expert> 
+    <career_percent_expert type="integer">0</career_percent_expert> 
+    <face_off_win_ratio type="integer">0</face_off_win_ratio> 
+    <pro_face_off_expert nil="true"></pro_face_off_expert> 
+    <career_overall type="integer">2846066</career_overall> 
+    <quick_plays_count type="integer">8</quick_plays_count> 
+    <campaign_medium type="integer">1145980</campaign_medium> 
+    <current_battle_win_streak type="integer">0</current_battle_win_streak> 
+    <pro_face_off_wins nil="true"></pro_face_off_wins> 
+    <career_medium type="integer">1145980</career_medium> 
+    <coop_games_count type="integer">21</coop_games_count> 
+    <platform>wii</platform> 
+    <last_login_at type="datetime">2008-09-22T21:03:25Z</last_login_at> 
+    <career_percent_easy type="integer">80</career_percent_easy> 
+    <career_percent_hard type="integer">0</career_percent_hard> 
+    <wins nil="true"></wins> 
+    <coop_percent_hard type="integer">0</coop_percent_hard> 
+    <career_expert type="integer">0</career_expert> 
+    <face_off_medium nil="true"></face_off_medium> 
+    <recent_performances> 
+      <performance_1> 
+        <score type="integer">50722</score> 
+        <part>guitar</part> 
+        <best_streak type="integer">59</best_streak> 
+        <cheats></cheats> 
+        <character_name>Axel</character_name> 
+        <stars type="integer">3</stars> 
+        <song_difficulty>medium</song_difficulty> 
+        <song_star_power type="integer">21</song_star_power> 
+        <outfit>axel_01</outfit> 
+        <lefty type="boolean">false</lefty> 
+        <notes_missed type="integer">152</notes_missed> 
+        <star_power_achieved type="integer">5</star_power_achieved> 
+        <venue>budokan</venue> 
+        <guitar>instrument_focus01</guitar> 
+        <notes_hit type="integer">600</notes_hit> 
+        <song>before_i_forget</song> 
+        <created_at type="datetime">2008-09-22T18:39:36Z</created_at> 
+      </performance_1> 
+      <performance_2> 
+        <score type="integer">40425</score> 
+        <part>guitar</part> 
+        <best_streak type="integer">27</best_streak> 
+        <cheats></cheats> 
+        <character_name>Axel</character_name> 
+        <stars type="integer">3</stars> 
+        <song_difficulty>medium</song_difficulty> 
+        <song_star_power type="integer">19</song_star_power> 
+        <outfit>axel_01</outfit> 
+        <lefty type="boolean">false</lefty> 
+        <notes_missed type="integer">103</notes_missed> 
+        <star_power_achieved type="integer">3</star_power_achieved> 
+        <venue>wikker</venue> 
+        <guitar>instrument_focus01</guitar> 
+        <notes_hit type="integer">441</notes_hit> 
+        <song>pride_and_joy</song> 
+        <created_at type="datetime">2008-09-22T18:34:20Z</created_at> 
+      </performance_2> 
+      <performance_3> 
+        <score type="integer">55515</score> 
+        <part>guitar</part> 
+        <best_streak type="integer">63</best_streak> 
+        <cheats></cheats> 
+        <character_name>Axel</character_name> 
+        <stars type="integer">3</stars> 
+        <song_difficulty>medium</song_difficulty> 
+        <song_star_power type="integer">16</song_star_power> 
+        <outfit>axel_01</outfit> 
+        <lefty type="boolean">false</lefty> 
+        <notes_missed type="integer">158</notes_missed> 
+        <star_power_achieved type="integer">3</star_power_achieved> 
+        <venue>wikker</venue> 
+        <guitar>instrument_focus01</guitar> 
+        <notes_hit type="integer">562</notes_hit> 
+        <song>cherub_rock</song> 
+        <created_at type="datetime">2008-09-22T18:29:54Z</created_at> 
+      </performance_3> 
+    </recent_performances> 
+    <created_at type="datetime">2008-09-22T16:13:37Z</created_at> 
+    <coop_hard type="integer">0</coop_hard> 
+    <battle_hard nil="true"></battle_hard> 
+    <career_easy type="integer">1700086</career_easy> 
+    <coop_easy type="integer">1683945</coop_easy> 
+    <battle_easy nil="true"></battle_easy> 
+    <win_streak nil="true"></win_streak> 
+    <face_off_hard nil="true"></face_off_hard> 
+    <face_off_expert nil="true"></face_off_expert> 
+    <groupies type="integer">183</groupies> 
+    <battle_losses type="integer">0</battle_losses> 
+    <current_face_off_win_streak type="integer">0</current_face_off_win_streak> 
+    <pro_face_off_losses type="integer">0</pro_face_off_losses> 
+    <id type="integer">5095145</id> 
+    <coop_percent_medium type="integer">0</coop_percent_medium> 
+    <pro_face_off_win_streak type="integer">0</pro_face_off_win_streak> 
+  </primary_slot> 
+  <forum_posts_count type="integer">0</forum_posts_count> 
+  <friendship_invitations_count type="integer">0</friendship_invitations_count> 
+  <friendships_count type="integer">0</friendships_count> 
+  <created_at type="datetime">2008-09-22T12:39:42Z</created_at> 
+  <custom_title nil="true"></custom_title> 
+  <last_joined_tournament_at nil="true"></last_joined_tournament_at> 
+  <state nil="true"></state> 
+</account>
