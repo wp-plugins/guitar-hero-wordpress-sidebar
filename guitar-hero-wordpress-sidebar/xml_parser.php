@@ -35,16 +35,16 @@
     
     switch ($element) {
     
-    case "username":  $username = $data; 
-                      break;
-    case "groupies":  $groupies = $data;
-                      break;
-    case "rocker_status":  $rocker_status = $data;
-                      break;
-    case "campaign_overall_rank": $campaign_overall_rank = $data;
-                      break;
-    case "cash":      $cash = $data;
-                      break;
+      case "username":  $username = $data; 
+                        break;
+      case "groupies":  $groupies = $data;
+                        break;
+      case "rocker_status":  $rocker_status = $data;
+                        break;
+      case "campaign_overall_rank": $campaign_overall_rank = $data;
+                        break;
+      case "cash":      $cash = $data;
+                        break;
     }    
     $element = "";
   }
