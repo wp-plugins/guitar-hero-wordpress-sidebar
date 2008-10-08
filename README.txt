@@ -19,7 +19,7 @@ The display of the statistics is cached every so often. Please consider this rel
 This section describes how to install the plugin and get it working.
 
 1. Download the archive and unzip it
-1. Upload the files to the `/wp-content/plugins/guitar-hero-wordpress-sidebar` directory
+1. Upload the files to the `/wp-content/plugins/guitar-hero` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `<?php if (function_exists("gh_stats")) { gh_stats(); } ?>` in your templates where you want to display the statistics
 
