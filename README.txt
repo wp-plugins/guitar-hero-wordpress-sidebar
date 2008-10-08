@@ -10,15 +10,18 @@ This plugin displays a Guitar Hero statistic in your wordpress sidebar. It bring
 
 == Description ==
 
+This plugin displays a Guitar Hero statistic in your wordpress sidebar. It brings an own configuration page. Let's Rock'n'Roll! 
+
 The display of the statistics is cached every so often. Please consider this release alpha status.
 
 == Installation ==
 
 This section describes how to install the plugin and get it working.
 
-1. Upload to the `/wp-content/plugins/` directory
+1. Download the archive and unzip it
+1. Upload the files to the `/wp-content/plugins/guitar-hero-wordpress-sidebar` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php if (function_exists("gh_stats")) { gh_stats(); } ?>` in your templates
+1. Place `<?php if (function_exists("gh_stats")) { gh_stats(); } ?>` in your templates where you want to display the statistics
 
 == Screenshots ==
 
@@ -28,4 +31,4 @@ This section describes how to install the plugin and get it working.
 
 == Frequently Asked Questions ==
 
-If you have any, please ask ;)
+If you have any questions, please ask ;)
